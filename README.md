@@ -38,7 +38,7 @@ Age,Sex,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingECG,MaxHR,ExerciseA
 
 ## 🛠️ Installation
 1. Clone repository:
-git clone https://github.com/yourusername/heart-disease-prediction.git
+git clone https://github.com/atharwaaah/heart-disease-prediction.git
 cd heart-disease-prediction
 2. Install requirements:
    pip install -r requirements.txt
