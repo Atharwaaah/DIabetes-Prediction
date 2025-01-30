@@ -30,4 +30,13 @@ This project implements a Logistic Regression model to predict diabetes in patie
 4. Prediction on test data
 
 ## Requirements
+numpy==1.21.5
+pandas==1.4.2
+scikit-learn==1.0.2
+
+## Usage
+python diabetes_prediction.py
+
+## License
+MIT License
 
