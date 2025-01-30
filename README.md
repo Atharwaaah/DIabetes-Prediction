@@ -23,7 +23,7 @@ This Jupyter notebook demonstrates a complete machine learning workflow using th
   - Decision Tree
 
 - **Dataset Features**  
-Age,Sex,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingECG,MaxHR,ExerciseAngina,Oldpeak,ST_Slope,HeartDisease
+Age,Sex,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingECG,MaxHR,ExerciseAngina,Oldpeak,ST_Slope
 
 
 | Clinical Parameter       | Description                          | Data Type |
