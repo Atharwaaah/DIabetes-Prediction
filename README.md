@@ -25,6 +25,7 @@ This Jupyter notebook demonstrates a complete machine learning workflow using th
 - **Dataset Features**  
 Age,Sex,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingECG,MaxHR,ExerciseAngina,Oldpeak,ST_Slope
 
+Few Features are listed below.
 
 | Clinical Parameter       | Description                          | Data Type |
 |-------------------------|--------------------------------------|-----------|
